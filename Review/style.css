@@ -1,0 +1,52 @@
+.navbar{
+    
+    background-color: #6C4E31;
+    font-size: large !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+    
+}
+
+body{
+    background-color: white !important;
+    text-align: center !important;
+    color: black !important;
+    
+    
+}
+
+
+.Head{
+    background-color:  #6C4E31 ;
+    height: 30%;
+    margin-top: 3.8%;
+    padding-bottom: 3.8%;
+    text-align: center;
+
+}
+
+.Header{
+    margin-top: 2%;
+    color: black;
+    padding-top: 42px;
+    font-size: larger !important;
+}
+
+
+.container-fluid{
+    font-size: 2.5rem;
+    font-weight: 700;
+    max-width: 80%;
+    margin: 10%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer{
+    background-color:  #6C4E31 ;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-size: large !important;
+    color: black;
+    text-align: center;
+}

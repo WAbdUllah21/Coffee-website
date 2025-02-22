@@ -1,0 +1,52 @@
+body{
+    background-color: #6C4E31 !important;
+    text-align: center !important;
+    color: black !important;
+    
+    
+}
+
+/* navbar */
+.navbar{
+    
+    background-color: #EBE5C2;
+    font-size: large !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+    
+}
+.footer{
+    background-color: #EBE5C2;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-size: large !important;
+    color: black;
+}
+
+
+
+
+.container-fluid{
+  margin: 8%;
+}
+
+
+
+form{
+  
+  text-align: center;
+  display: grid;
+  margin: 15%;
+  
+  font-size: 1.5rem;
+  font-weight: 800;
+  border: 1px solid white;
+  background-color: white;
+  padding: 10%;
+  border-radius: 5%;
+  box-shadow: 0px 0px 0px  #6C4E31 ;
+  line-height: 1.5 !important;
+  background-color: #6C4E31;
+
+}
